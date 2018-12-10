@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/com/youxu/client/swing/ResultCodeTip.java=UTF-8
+encoding//src/com/youxu/common/chat/ChatCmd.java=UTF-8
+encoding//src/com/youxu/common/chat/request/PrivateChatRequest.java=UTF-8
+encoding//src/com/youxu/common/chat/response/ChatResponse.java=UTF-8
+encoding//src/com/youxu/common/codc/RequestDecoder.java=UTF-8
+encoding//src/com/youxu/common/player/PlayerCmd.java=UTF-8
+encoding//src/com/youxu/common/player/request/LoginRequest.java=UTF-8
+encoding//src/com/youxu/common/player/request/RegisterRequest.java=UTF-8
+encoding//src/com/youxu/common/player/response/PlayerResponse.java=UTF-8
+encoding//src/com/youxu/server/Server.java=UTF-8
+encoding//src/com/youxu/server/ServerHandler.java=UTF-8
+encoding//src/com/youxu/server/module/chat/service/ChatServiceImpl.java=UTF-8
+encoding//src/com/youxu/server/module/player/handler/PlayerHandler.java=UTF-8
+encoding//src/com/youxu/server/module/player/service/PlayerServiceImpl.java=UTF-8
